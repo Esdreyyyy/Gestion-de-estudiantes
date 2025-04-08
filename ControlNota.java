@@ -10,7 +10,7 @@ import javax.swing.table.*;
 import java.util.Vector;
 /**
  *
- * @author josed
+ * @author Esdrey Moguel Diaz
  */
 public class ControlNota extends JFrame {
     private JTabbedPane tabbedPane;
